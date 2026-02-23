@@ -1,7 +1,7 @@
-# Ecommerce Sales Data Cleaning Project
+# Sales Data Cleaning Project
 
 ## Project Overview
-This project demonstrates my data cleaning and preparation skills using a real-world ecommerce sales dataset.
+This project demonstrates my data cleaning and preparation skills using a real world ecommerce sales dataset.
 
 The raw dataset contained several data quality issues that required cleaning before analysis could be performed.
 
