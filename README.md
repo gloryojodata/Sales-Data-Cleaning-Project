@@ -62,5 +62,6 @@ https://github.com/gloryojodata/Sales-Data-Cleaning-Project/blob/main/after_clea
 ## Author
 **Glory Ojo**  
 Data Analyst | Data Cleaning Specialist  
-Biotechnology and Nursing Background  
+Biotechnology and Nursing Background
+ALX Data Analytics Graduate
 Nigeria
